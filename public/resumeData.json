@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name":"Nachiket Vijay Gujalwar",
+    "description":"I am Software Engineer and I use MERN Stack to develop Applications.",
+    "image":"profilepic.jpg",
+    "bio":"Strong engineering professional with a Bachelor of Engineering (B.E.) focused in Computer Science & Engineering from Ballarpur Institute of Technology, Bamni, Chandrapur. Being specifically directed towards Web Development with NodeJS, Express, ReactJS & MaterialUI . I aim to be the most productive member of a firm where I can efficiently contribute my skills & abilities to the growth of the organization and build my professional career.",
+    "contactmessage":"Drop the message for new Opportunity",
+    "email": "gujalwar6@gmail.com",
+    "phone": "+91 9764361139",
+    "github":"https://github.com/nash1505",
+    "project":"https://github.com/nash1505",
+    "address":{
+      "street":"Jail Road",
+      "city":"Chandrapur",
+      "state":"Maharashtra",
+      "zip": "442401"
+    },
+    "website": "#",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nachiket-gujalwar-81173615b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/15_nachiket_05/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nash1505",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Full Stack Engineer skilled in ReactJS, PHP, JAVA, Javascript, Firebase, MYSQL and MaterialUI.",
+    "education":[
+      {
+        "school":"Ballarpur Institute of Technology, Bamni, Chandrapur",
+        "degree":"Bachelor of Engineering (Computer Science)",
+        "graduated":"September 2021",
+        "description":"Exploring technical details about computer Science and Technology."
+      },
+      {
+        "school":"Sommaya Diploma in Engineering, Chandrapur.",
+        "degree":"Diploma in Computer Science and Engineering",
+        "graduated":"August 2018",
+        "description":"Basic's about the Computer Science and Languages."
+      }
+    ],
+    "work":[
+      {
+        "company":"SecPod Technology",
+        "title":"Software Engineer ",
+        "years":"July 2021 - Present",
+        "description":"MERN Stack Development, Handling FrontEnd as Well as BackEnd Development"
+      },
+      {
+        "company":"DwebBox",
+        "title":"Full Stack Developer Intern",
+        "years":"April 2021 - July 2021",
+        "description":"Creating and Maintaining API's, Deploying and generating instances on Amazon AWS, Maintaining and generating new features"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"75%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"PHP",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      },
+      {
+        "name":"JAVA",
+        "level":"50%"
+      },
+      {
+        "name":"MySql",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Video Calling Chat Application",
+        "category":"Chat Application Integration with Firebase",
+        "image":"01.jpg",
+        "url":"https://github.com/nash1505/Call-me"
+      },
+      {
+        "title":"E-Commerce Clone Amazon using ReactJS",
+        "category":"Building E-Commerce site Amazon clone using Reactjs and firebase",
+        "image":"02.jpg",
+        "url":"https://github.com/nash1505/"
+      },
+      {
+        "title":"News Insights",
+        "category":"Developed a Website for local News Insights",
+        "image":"03.jpg",
+        "url":"https://github.com/nash1505/php_projects"
+      },
+      {
+        "title":"Portfolio",
+        "category":"Portfolio Website for Personal Use.",
+        "image":"03.jpg",
+        "url":"https://github.com/nash1505/"
+      }
+    ]
+  }
+}
